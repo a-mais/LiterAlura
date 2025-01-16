@@ -1,5 +1,10 @@
 # LiterAlura
 
+<p align="center">
+  <img src="https://github.com/a-mais/LiterAlura/blob/main/badge%20literalura.webp" alt="Badge LiterAlura" width="400">
+</p>
+
+
 ![Badge Status: FINALIZADO](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=red&style=for-the-badge)
 
 Aplicação desenvolvida para gerenciamento de livros e autores, interagindo com a **Gutendex API** para buscar dados de obras e armazená-los em um banco de dados relacional. O projeto faz parte do *Challenge* **LiterAlura**, onde são propostas tarefas para criar e evoluir uma biblioteca online.
@@ -12,9 +17,6 @@ Aplicação desenvolvida para gerenciamento de livros e autores, interagindo com
 - [Pré-requisitos](#pré-requisitos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar](#como-executar)
-- [Uso da Aplicação](#uso-da-aplicação)
-- [Imagens/Exemplos](#imagensexemplos)
-- [Autor](#autor)
 
 ---
 
